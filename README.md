@@ -19,4 +19,4 @@ The red dots represent customers. It is still not implemented to remove the dots
 
 To remove afterwards the enviroment, type
 
-`conda env remove --name supermarket
+`conda env remove --name supermarket`
