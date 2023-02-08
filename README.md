@@ -1,5 +1,5 @@
 # supermarket-simulation.
-This is a small Markov chain project. It is a simulation of a supermarket with 5 areas. We use a transition matrix to model the behavior in the supermarket which was calculated from a csv with customer data.
+This is a small Markov chain project. It is a simulation of a supermarket with 5 areas. We use a transition matrix to model the behavior in the supermarket which was calculated from a five csv files with customer data in the jupyter notebook.
 
 ### How to use it?
 
