@@ -15,3 +15,8 @@ Create a new python enviroment.
 
 
 The red dots represent customers. It is still not implemented to remove the dots if customers go the next area.
+
+
+To remove afterwards the enviroment, type
+
+`conda env remove --name supermarket
